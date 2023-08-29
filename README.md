@@ -1,6 +1,5 @@
 # Genetic Algorithms
-An example of a Java genetic algorithm that finds the correct sequence for a given text.
-
+An example of a Java genetic algorithm that finds the correct sequence for a given text.  
 
 ## Operation
 A genetic algorithm is one of the most used optimization algorithms. It uses genetic principles like elitism, cross-over, mutation to optimize and it's adaptable to many problems.  
@@ -42,7 +41,7 @@ In this example, algorithm uses the 4th cause since solution is known.
 
 ## Comments
 
-Examine how performance is affected by the different number of chromosomes for the password "ChatGPT and GPT-4".
+Please examine how performance is affected by the different number of chromosomes for the password "ChatGPT and GPT-4".
 
 <img width="1125" alt="Performance" src="https://github.com/muhammetsanci/Genetic-Algorithms/assets/77257193/769bbccc-f6b8-4721-a94a-22ec81e8fb3a">
 
